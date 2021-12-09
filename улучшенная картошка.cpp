@@ -184,7 +184,7 @@ int main()
 		ItogOsnovaCost = KlubRiba.price;
 		ItogOsnovaVes = KlubRiba.weight;
 		namenapoln = "без наполнителя";
-		namenapoln2 = "без дополнительного наполнителя";
+		namenapoln2 = "без дополнительного наполнителя!!!!";
 		sostnapoln = "отсутствует";
 		sostnapoln2 = "отсутствует";
 		sostosnovka = "Печёный картофель среднего размера, филе семги, филе кеты, масло растительное, соль, петрушка";
