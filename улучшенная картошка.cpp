@@ -142,7 +142,7 @@ int main()
 		nameosnovka = "с основой: Укроп с растительным маслом";
 		ItogOsnovaCost = UkropRastMaslo.price;
 		ItogOsnovaVes = UkropRastMaslo.weight;
-		sostosnovka = "Большой печеный картофель, укроп, растительное масло";
+		sostosnovka = "Большой печеный картофель, укроп, растительное масло!!!!";
 		break;
 	case 5:
 		nameosnovka = "с основой: Растительное масло";
